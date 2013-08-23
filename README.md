@@ -1,7 +1,7 @@
 [M03x](http://www.meizu.com)
 =================
 
-M03x repo is kernel source code for Meizu M030, M031, M032 smartphone(MX). With MX drivers, you can compile a MX smartphone kernel by yourself. Enjoy it!
+M03x repo is Linux kernel source code for Meizu M030, M031, M032 smartphones. With this repo, you can customize the source code and compile a Linux kernel image yourself. Enjoy it!
 
 HOW TO COMPILE
 -----------
