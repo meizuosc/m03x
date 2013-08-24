@@ -8,7 +8,7 @@ HOW TO COMPILE
 
 ###1. Download source code###
 
-  <code>git clone git@github.com:meizuosc/m03x.git</code>
+  <code>git clone https://github.com/meizuosc/m03x.git</code>
 
 ###2. Compiling###
 
